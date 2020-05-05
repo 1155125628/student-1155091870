@@ -1,7 +1,8 @@
 Something about me
 ---
-*Name* WU Nuannuan
-*Current year* year4
+**Name** WU Nuannuan
+
+**Current year** year4
 
 Milestones we have
 ---
@@ -11,9 +12,9 @@ Milestones we have
 
 My progress up to now
 ---
-[x] Milestone 1
-[ ] Milestone 2
-[x] Milestone 3
+* [x] Milestone 1
+* [ ] Milestone 2
+* [x] Milestone 3
 
 Requirements
 ---
@@ -24,3 +25,7 @@ Emphasis | Y
 List | Y
 Task list | Y
 Table | Y
+
+Screenshot
+---
+![image](https://user-images.githubusercontent.com/63246346/81065506-2e75af00-8f0e-11ea-9b8d-3e210fd34634.png)
